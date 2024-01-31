@@ -1,0 +1,1 @@
+# Design and implement a simple file system in C that runs on a simulated operating system. The file system should support basic file operations like creating, deleting, reading, and writing files. It should also have a basic directory structure and support for file permissions.
